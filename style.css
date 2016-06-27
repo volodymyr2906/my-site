@@ -1,0 +1,39 @@
+body,
+html{
+        height:auto;
+        width:100%;
+    }
+header 
+    { position: relative;
+    }
+body    
+  	{
+      	background-image:url("fon.jpg");
+      	background-size:cover;
+      	background-repeat: no-repeat;
+  	}
+style
+nav 
+    {
+    background-image: url("fon.jpg");
+    padding:10px;
+    }
+ul {
+    padding:15px;
+    text-align: center;
+    }    
+li {
+    width:150px;
+    height:30px;
+    background-image:none;
+    margin:0px 4px;
+    list-style-type:none;
+    display:inline-block;
+    padding: 10px;
+}
+a {
+    color:yellow;
+}
+
+  	
+
